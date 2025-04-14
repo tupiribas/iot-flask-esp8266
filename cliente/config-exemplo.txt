@@ -1,0 +1,4 @@
+WIFI_SSID_NODE=ssid_do_seu_wifi
+WIFI_PASSWORD_NODE=senha_do_seu_wifi
+SERVER_IP=ip_do_servidor
+SERVER_PORT=porte_servidor
